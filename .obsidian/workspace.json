@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "b4205b14f7cdd447",
+        "id": "dd149d464b213587",
         "type": "tabs",
         "children": [
           {
-            "id": "dafe7a2ead4db02d",
+            "id": "df4639cbeca9199c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concentration of Solutions.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f7fb8d3459bf37ef",
+            "id": "311c305e74cbf056",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concentration of Solutions.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concentration of Solutions.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concentration of Solutions.md"
+                "file": "Untitled 2.md"
               }
             }
           }
@@ -158,8 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7fb8d3459bf37ef",
+  "active": "311c305e74cbf056",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled 2.md",
     "Untitled.md",
     "Concentration of Solutions.md",
     "README.md",
